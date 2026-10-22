@@ -337,7 +337,7 @@ function Gallery() {
               </p>
 
               <p className="mt-1 text-[10px] tracking-[0.2em] text-black/40 uppercase">
-                Saved
+                Favourites
               </p>
             </div>
 
